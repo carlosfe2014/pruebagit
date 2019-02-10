@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MovieDBAPI</string>
+    <string name="etpokemonlabel">Ingrese su pokemon:</string>
+    <string name="btnbuscar">Buscar</string>
+    <string name="pokemonNombre">Nombre:</string>
+    <string name="pokemonAltura">Altura:</string>
+    <string name="pokemonPeso">Peso:</string>
+    <string name="movieDate">Fecha lanzamiento:</string>
+    <string name="movieSinopsis">Sinopsis:</string>
+    <string name="movieTitulo">Título:</string>
 </resources>
